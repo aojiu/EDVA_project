@@ -1,5 +1,5 @@
 # EDVA_project
-EDAV Class Project
+EDAV Class Final Project 22
 
 This is the git repository of STATW5702 final project.
 
